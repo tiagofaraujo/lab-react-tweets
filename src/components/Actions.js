@@ -1,4 +1,4 @@
- function Actions() {
+function Actions() {
     return (
       <div>
         <div className="actions">

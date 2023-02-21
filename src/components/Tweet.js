@@ -1,8 +1,8 @@
 import Actions from './Actions';
 import Message from './Message';
-import ProfileImage from '../components/ProfileImage';
+import ProfileImage from './ProfileImage';
 import Timestamp from './Timestamp';
-import User from '../components/User';
+import User from './User';
 
 
 function Tweet(props) {
